@@ -59,3 +59,5 @@ npm run preview
 - Total: 14 days - 4 weekends - 2 public holidays = **8 working days**
 - April 2025: 3 working days
 - May 2025: 5 working days
+
+![img.png](img.png)
